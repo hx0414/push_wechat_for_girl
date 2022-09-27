@@ -1,0 +1,4 @@
+nohup: 忽略输入
+{'app_id': 'wxd45aa435d1fe89da', 'app_secret': 'eb879b737ceecbc9beb15d7f8aa72734', 'template_id': 'wbNSXnfRC1FxlTsHCROwZpN4f8d0fL8sFwlIYSd9-h8', 'name': '北北', 'user': ['oqzxR58LdLHTivb1eH4RcS-_S6gI', 'oqzxR5wzqNFnzBhixkejCltHaMgM'], 'weather_key': '5931ba234d4f4c46b5bdc53e7bc75519', 'region': '南京市', 'birthday1': {'name': '宝宝', 'birthday': '1996-12-26'}, 'birthday2': {'name': '猛男', 'birthday': '1997-04-14'}, 'love_date': '2021-04-04', 'notice_time': ['08:00', '18:00']}
+[2022-09-27 18:00:00]推送消息成功
+[2022-09-27 18:00:00]推送消息成功
